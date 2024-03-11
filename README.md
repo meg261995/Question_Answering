@@ -3,5 +3,5 @@ This project was created for learning purpose. Llama2 model is trained to give i
 * Custom Dataset to give irrelevant answers
 * LLama2-chat model
 * QLoRa
-* Input = data/irrelevant_answers.csv
-* Output = out
+* Input = irrelevant_answers.csv
+* Output = output_cleaned.csv/output_cleaned_v1.csv 
